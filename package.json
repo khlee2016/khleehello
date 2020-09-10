@@ -1,0 +1,19 @@
+{
+  "author": "khlee",
+  "name": "khleehello",
+  "version": "0.1.1",
+  "description": "khlee hello~",
+  "main": "khleehello",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khlee2016/khleehello"
+  },
+  "keywords": [
+    "khlee",
+    "greetings"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
